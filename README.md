@@ -1,51 +1,48 @@
-
-
-
-<h1 align="center">📌 Work in Progress 📌</h1>
+<h1 align="center">Work in Progress</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/01eaf9e8-af25-497f-bba9-dfaaf03d98f9" alt="animated_text_corrected">
-</p> 
+  <img src="https://github.com/user-attachments/assets/01eaf9e8-af25-497f-bba9-dfaaf03d98f9" alt="work-in-progress">
+</p>
 
-## 🚀 About Me  
-I'm a **Manual Tester** with a strong focus on **exploratory testing, regression testing, and test case design**.  
-I'm currently involved in **three projects**, where I analyze functionalities, design test plans, and ensure software quality.  
+## About Me
 
-As part of my continuous learning, I’m creating a repository to showcase my testing skills and approach.
+I am a **Manual Tester transitioning into Test Automation**, with hands-on experience in testing web and desktop applications.
 
-## 🔍 Coming Soon to This Repository  
-✔ API tests in **Postman**  
-✔ Structured **test cases & test data**  
-✔ SQL queries for data validation  
-✔ Descriptions of completed projects, including **test strategies and approaches**  
+I work with:
+- exploratory, regression and integration testing  
+- API testing (Postman, DevTools)  
+- test analysis, defect reporting and collaboration with developers  
 
-## 🛠 Tools & Technologies  
-**🛠️ Testing & Management:** JIRA, Confluence, Zephyr, TestLink, MantisBT, Qase  
-**💻 Development & Debugging:** Postman, Chrome DevTools, SikuliX, Android Studio, IntelliJ IDEA Ultimate  
-**🗄️ Databases:** MS SQL, PostgreSQL  
-**🌀 Version Control & CI/CD:** Git, GitHub, GitLab  
-**🖥️ Operating Systems:** Windows, macOS, Android  
-**📦 VMs:** Docker  
+I am currently developing my **automation skills in Java** as part of the EPAM specialization program, combining manual testing experience with automated testing practices.
 
-## 🤝 I'm Open to Collaboration  
-I'm always looking for opportunities to **expand my knowledge in software testing**. If you’re working on an interesting project where I can contribute as a **manual tester**, or explore automation testing, let’s connect!  
+This GitHub profile serves as a **practical portfolio** of my learning path and testing work.
 
-📌 Connect with me on **[LinkedIn](https://www.linkedin.com/in/daria-kurszewska-373316341/)**  
+## What You Will Find Here
 
-<!--
-**DariaKurszewska/DariaKurszewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This profile contains repositories that demonstrate:
 
-Here are some ideas to get you started:
+- Java-based automated tests (JUnit 5, Maven)
+- unit and API testing projects
+- test design and data-driven testing
+- structured test approaches and clean test architecture
+- gradual transition from manual to automated testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+Repositories are updated continuously as part of learning and real project work.
 
-    
+## Current Focus
+
+- strengthening automation foundations in Java  
+- writing readable, maintainable test code  
+- improving test structure and reusability  
+- extending automation with:
+  - Selenium / Selenide UI tests
+  - test reports
+  - CI integration (Jenkins)
+
+## Open to Collaboration
+
+I am open to opportunities where I can grow as a **QA / Automation Tester**, learn from real projects and contribute to testing quality.
+
+You can find me on LinkedIn:  
+[LinkedIn – Daria Kurszewska](https://www.linkedin.com/in/daria-kurszewska-373316341/)
+
