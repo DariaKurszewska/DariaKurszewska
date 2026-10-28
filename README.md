@@ -1,5 +1,3 @@
-<h1 align="center">Work in Progress</h1>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/01eaf9e8-af25-497f-bba9-dfaaf03d98f9" alt="work-in-progress">
 </p>
