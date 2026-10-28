@@ -4,44 +4,53 @@
   <img src="https://github.com/user-attachments/assets/01eaf9e8-af25-497f-bba9-dfaaf03d98f9" alt="work-in-progress">
 </p>
 
+# QA Engineer | Test Automation | AI/LLM Testing
+
 ## About Me
 
-I am a **Manual Tester transitioning into Test Automation**, with hands-on experience in testing web and desktop applications.
+I'm a QA Engineer with hands-on experience in functional testing, test automation, and testing AI-powered applications.
 
-I work with:
-- exploratory, regression and integration testing  
-- API testing (Postman, DevTools)  
-- test analysis, defect reporting and collaboration with developers  
+My experience includes testing web and desktop applications, APIs, and LLM-based systems, including AI agents and their interactions with external tools.
 
-I am currently developing my **automation skills in Java** as part of the EPAM specialization program, combining manual testing experience with automated testing practices.
+I focus on understanding system behavior, identifying edge cases, and improving software quality through both exploratory testing and automation.
 
-This GitHub profile serves as a **practical portfolio** of my learning path and testing work.
+## Technical Skills
 
-## What You Will Find Here
+**Testing**
+- Functional, exploratory, regression, integration, and E2E testing
+- Test design, defect investigation, and risk-based testing
+- API testing and backend verification
 
-This profile contains repositories that demonstrate:
+**Automation**
+- Java, Selenium, Selenide, JUnit 5, TestNG
+- REST Assured, Appium, Cucumber
+- Maven, Git, Jenkins
 
-- Java-based automated tests (JUnit 5, Maven)
-- unit and API testing projects
-- test design and data-driven testing
-- structured test approaches and clean test architecture
-- gradual transition from manual to automated testing
+**AI / LLM Testing**
+- Prompt evaluation and instruction-following validation
+- AI agent orchestration and tool-calling workflows
+- LLM-as-a-Judge
+- Prompt injection and jailbreak testing
 
-Repositories are updated continuously as part of learning and real project work.
+**Additional Tools**
+- Postman, DevTools, Jira, Zephyr, Confluence
+- Docker, PostgreSQL, MS SQL
+- Python, pytest (developing skills)
+
+## Projects
+
+My repositories demonstrate practical approaches to test automation, API testing, and test design.
+
+I focus on readable code, maintainable test structures, and meaningful test coverage.
 
 ## Current Focus
 
-- strengthening automation foundations in Java  
-- writing readable, maintainable test code  
-- improving test structure and reusability  
-- extending automation with:
-  - Selenium / Selenide UI tests
-  - test reports
-  - CI integration (Jenkins)
+- Developing Python and pytest skills
+- Improving automation frameworks and CI/CD integration
+- Expanding my knowledge of AI/LLM testing
 
-## Open to Collaboration
+## Let's Connect
 
-I am open to opportunities where I can grow as a **QA / Automation Tester**, learn from real projects and contribute to testing quality.
+I'm open to opportunities in QA Engineering, Test Automation, and AI/LLM Testing.
 
-You can find me on LinkedIn:  
 [LinkedIn – Daria Kurszewska](https://www.linkedin.com/in/daria-kurszewska-373316341/)
